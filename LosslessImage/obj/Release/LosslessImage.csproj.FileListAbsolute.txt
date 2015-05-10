@@ -1,0 +1,12 @@
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\LosslessImage.dll.config
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\LosslessImage.dll
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\LosslessImage.pdb
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\Magick.NET-AnyCPU.dll
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\Magick.NET.Core.dll
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\Magick.NET-AnyCPU.xml
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\bin\Magick.NET.Core.xml
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\obj\Release\LosslessImage.csprojResolveAssemblyReference.cache
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\obj\Release\ExifLibrary.MemoryBinStream.resources
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\obj\Release\LosslessImage.csproj.GenerateResource.Cache
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\obj\Release\LosslessImage.dll
+C:\Users\TuanNH\Desktop\ImageOptimizer\LosslessImage\obj\Release\LosslessImage.pdb
